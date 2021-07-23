@@ -1,18 +1,3 @@
->要想成为一名优秀的Android开发，一份知识体系是必不可少的~
-
-感谢大家的关注与支持，最近工作上比较忙，很难抽出时间来更新~
-
-结构方面还需要再优化一下，然后打算再整理一下面试题相关的内容，后面计划会给大家制作一份知识体系图……
-
-Emm……辛辛苦苦种树……确定不来个Star鼓励一下？
-
-
->部分内容收集整理于网络，在此也再次感谢所有内容产出者的贡献！
->> [**版权声明**](#版权声明)
->>>如果觉得看起来比较麻烦，需要PDF版本，或是需要更多学习资料、面试资料，进阶、架构资料，都可以加上[**QQ群**](#contanct-me)领取。祝愿每一位有追求的Android开发同胞都能进大厂拿高薪！
-
-
-# Android-Notes
 Android开发核心知识点笔记-目录： 
 
 | :one: | :two: | :three: | :four: | :five: | :six: | :seven: | :eight: | :nine: | :keycap_ten: |
@@ -225,7 +210,6 @@ Android开发核心知识点笔记-目录：
    * [类加载器](https://github.com/BlackZhangJX/Android-Notes/blob/master/Docs/Android扩展知识点.md#类加载器)
      * [双亲委托模式](https://github.com/BlackZhangJX/Android-Notes/blob/master/Docs/Android扩展知识点.md#双亲委托模式)
      * [DexPathList](https://github.com/BlackZhangJX/Android-Notes/blob/master/Docs/Android扩展知识点.md#dexpathlist)
-     
 ## 性能优化知识点汇总
 
    * [启动优化](https://github.com/BlackZhangJX/Android-Notes/blob/master/Docs/性能优化知识点汇总.md#启动优化)
@@ -409,7 +393,6 @@ Android开发核心知识点笔记-目录：
    * [EventBus](https://github.com/BlackZhangJX/Android-Notes/blob/master/Docs/Android开源库源码分析.md#EventBus)
      * [简单示例](https://github.com/BlackZhangJX/Android-Notes/blob/master/Docs/Android开源库源码分析.md#简单示例-3)
      * [源码分析](https://github.com/BlackZhangJX/Android-Notes/blob/master/Docs/Android开源库源码分析.md#源码分析-3)
-     
 ## Kotlin知识点汇总
   * [对象](https://github.com/BlackZhangJX/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#对象)
   * [类](https://github.com/BlackZhangJX/Android-Notes/blob/master/Docs/Kotlin知识点汇总.md#类)
@@ -618,7 +601,6 @@ Android开发核心知识点笔记-目录：
    * [其他](https://github.com/BlackZhangJX/Android-Notes/blob/master/Docs/常见面试算法题汇总.md#其他)
      * [反转整数](https://github.com/BlackZhangJX/Android-Notes/blob/master/Docs/常见面试算法题汇总.md#反转整数)
      * [LRU缓存策略](https://github.com/BlackZhangJX/Android-Notes/blob/master/Docs/常见面试算法题汇总.md#lru缓存策略)
-     
 # 赞赏本库
 如果这个库对您有很大帮助，您愿意支持这个项目的进一步开发以及这个项目的持续维护👇
 
@@ -632,7 +614,8 @@ Android开发核心知识点笔记-目录：
 如果觉得看起来比较麻烦，需要PDF版本，或是需要更多学习资料，都可以加上QQ群领取
 >本群由我创立，目前已将群主权限交由合作方便于进行日常管理，介意的朋友们在GitHub上看最新版就好了
 >> 如果你对于群管理有更好的建议，欢迎群内私聊我（我是-不管事不答疑的随缘冒泡废人）
->>>行了行了，名字很随意已经有很多人说过了…毕竟还是要恰饭的嘛…
+>>
+>> >行了行了，名字很随意已经有很多人说过了…毕竟还是要恰饭的嘛…
 
 祝愿每一位有追求的Android开发同胞都能进大厂拿高薪！
 
@@ -647,6 +630,7 @@ Android开发交流QQ群：**1078864380**  （备注一下GitHub，免得被认�
 </div>
 
 >PS：
+>
 >>平常很忙，找桃子小姐姐领取就好了，别找我
 
 ## 微信公众号
